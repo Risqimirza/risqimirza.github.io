@@ -192,12 +192,18 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 
 `````` CHANNEL DAERAH ``````
-#EXTINF:0 tvg-id="MQTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr3sdicFyvBqGBJEUqy8HcGrTRh1rI167r2w&usqp=CAU" group-title="CHANNEL | DAERAH", West Java Network
-http://edge.linknetott.swiftserve.com/channelgroup3/cg340production/ch50/02.m3u8
-
-#EXTINF:0 tvg-id="MQTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTaXyg1-yCE7t6WHkeK0XlSmzpb7KIBcplg&usqp=CAU" group-title="CHANNEL | DAERAH", Bungo TV
+#EXTINF:0 tvg-id="bungotv.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTaXyg1-yCE7t6WHkeK0XlSmzpb7KIBcplg&usqp=CAU" group-title="CHANNEL | DAERAH", Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 #EXTINF:0 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="CHANNEL | DAERAH", MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:0 tvg-id="MTATV.id" tvg-logo="https://i.imgur.com/3kGs7k0.png" group-title="CHANNEL | DAERAH", MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
+
+#EXTINF:0 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="CHANNEL | DAERAH", Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpEWZFUeiAwlUSKxXBbpUDwyANh9F5affeDQ&usqp=CAU" group-title="CHANNEL | DAERAH", Ficom TV
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
