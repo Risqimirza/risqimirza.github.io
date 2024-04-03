@@ -237,3 +237,10 @@ https://v2.siar.us/aditv/livestream/chunks.m3u8
 
 #EXTINF:-1  tvg-id="TVKU.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png" group-title="CHANNEL | DAERAH", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1  tvg-id="BMSTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/800px-BMSTV_Banyumas-Purwokerto.png" group-title="CHANNEL | DAERAH", BMSTV
+http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.id/1dYfQ" group-title="CHANNEL | DAERAH", Madu TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
