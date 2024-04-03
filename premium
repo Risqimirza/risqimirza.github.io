@@ -247,9 +247,8 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #EXTINF:-1 tvg-logo="https://humabetang.com/public/uploads/mobile/icons/eZaQoM1KTVK99yyeF8XP8s54XXjrsJFVD0QIHuk9.png" group-title="CHANNEL | DAERAH", Huma Betang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 
-
-#EXTINF:-1  tvg-logo="https://ugtv.co.id/wp-content/uploads/2021/03/LOGO-SANGAJI-TV-2048x475.png" group-title="DAERAH",Sangaji TV
+#EXTINF:-1  tvg-logo="https://ugtv.co.id/wp-content/uploads/2021/03/LOGO-SANGAJI-TV-2048x475.png" group-title="CHANNEL | DAERAH", Sangaji TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3c/Cakra-semarang-tv.png/240px-Cakra-semarang-tv.png" group-title="DAERAH",Semarang TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3c/Cakra-semarang-tv.png/240px-Cakra-semarang-tv.png" group-title="CHANNEL | DAERAH", Semarang TV
 http://116.254.112.74/hls/cakralive.m3u8
