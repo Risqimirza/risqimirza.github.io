@@ -219,7 +219,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="CHANNEL | DAERAH",TV Tabalong
+#EXTINF:-1 tvg-logo="https://mc.tabalongkab.go.id/wp-content/uploads/2019/04/logo-tv-tabalong.png" group-title="CHANNEL | DAERAH",TV Tabalong
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
