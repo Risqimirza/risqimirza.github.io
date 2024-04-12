@@ -217,6 +217,10 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 
 
+
+
+
+
 `````` CHANNEL DAERAH ``````
 #EXTINF:0 tvg-id="bungotv.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTaXyg1-yCE7t6WHkeK0XlSmzpb7KIBcplg&usqp=CAU" group-title="CHANNEL | DAERAH", Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
@@ -235,6 +239,9 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtcR32S_Y39mamtKEuuyC76q0dAMrlNyheyQ&usqp=CAU" group-title="CHANNEL | DAERAH", Tegar TV 
 http://wms.klikhost.com:1935/tegartv/tegartv/chunklist_w1639503258.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCdnh583/UGTV.png" group-title="CHANNEL | DAERAH", UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCdnh583/UGTV.png" group-title="CHANNEL | DAERAH", UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
@@ -282,6 +289,13 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="CHANNEL | DAERAH", TVRI Jawa Tengah
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:0 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="CHANNEL | DAERAH", Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://ugtv.co.id/wp-content/uploads/2021/03/LOGO-SANGAJI-TV-2048x475.png" group-title="CHANNEL | DAERAH", Sangaji TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
 
 ===MOVIES===
