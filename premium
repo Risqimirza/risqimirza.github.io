@@ -276,26 +276,14 @@ http://116.254.112.74/hls/cakralive.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="CHANNEL | DAERAH", TVRI Sumatra Barat
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="CHANNEL | DAERAH", TVRI 3 Budaya
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="CHANNEL | DAERAH", TVRI Jawa Tengah
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:0 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="CHANNEL | DAERAH", Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://ugtv.co.id/wp-content/uploads/2021/03/LOGO-SANGAJI-TV-2048x475.png" group-title="CHANNEL | DAERAH", Sangaji TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+
+
+
 
 
 ===MOVIES===
