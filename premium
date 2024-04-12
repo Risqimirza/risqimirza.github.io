@@ -3214,49 +3214,49 @@ http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", SPACE
 http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="MAYTOKO CHANNEL", PARAMOUNT 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", PARAMOUNT 
 http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="MAYTOKO CHANNEL", TYC SPORTS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", TYC SPORTS
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="MAYTOKO CHANNEL", DISCOVERY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", DISCOVERY
 http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="MAYTOKO CHANNEL", ANTENA 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", ANTENA 3
 http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="MAYTOKO CHANNEL", FOX SPORTS mx
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", FOX SPORTS mx
 http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", NICK JR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", NICK JR
 http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", HOLA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", HOLA TV
 http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", PASIONES 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", PASIONES 
 http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", CINE CANAL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", CINE CANAL
 http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", MULTIPREMIER
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", MULTIPREMIER
 http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", STUDIO UNIVERSAL 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", STUDIO UNIVERSAL 
 http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", CARTOON NETWORK 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", CARTOON NETWORK 
 http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", WB TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", WB TV
 http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", FOX SPORTS 2 mx
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", FOX SPORTS 2 mx
 http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", ESPN mx
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", ESPN mx
 http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", ESPN 2 mx
