@@ -3362,11 +3362,11 @@ http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", LIFETIME
 http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", E
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", E TV
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", HISTORY 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", HISTORY 2
 http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", A&E
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", A&E
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
