@@ -3203,6 +3203,7 @@ https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest
 
 
 `````` CHANNEL R MEDIA NET ``````
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png",
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", COMEDY CENTRAL
@@ -3262,9 +3263,6 @@ http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", TELEMUNDO
 http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", TRU TV
-http://168.227.22.18:1935/live/mobile-041/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", AXN
 http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
 
@@ -3283,37 +3281,37 @@ http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", BABY TV
 http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", CNN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", CNN
 http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", MTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", MTV
 http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", UNIVERSAL TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", UNIVERSAL TV
 http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", UNIVERSO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", UNIVERSO
 http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", ENI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", ENI
 http://168.227.22.18:1935/live/mobile-067/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", ANIMAL PLANET
 http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", ZOO MOO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", ZOO MOO
 http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", TNT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", TNT
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", AMC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", AMC
 http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", CANAL 12 SV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", CANAL 12 SV
 http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", NAT GEO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png" group-title="CHANNEL | R MEDIA NET", NAT GEO
 http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MAYTOKO CHANNEL", HBO 2
