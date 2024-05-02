@@ -233,11 +233,11 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="CHANNEL | INDONESIA | VISION+", MOJI TV CH2
-#https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="CHANNEL | INDONESIA | VISION+", MOJI TV UHF
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/23
+http://103.127.96.91:25461/91@v2old/M0js5Y5vVA/23
 
 
 
