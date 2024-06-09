@@ -177,6 +177,8 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 TRANSVISION
 =========================================================================================
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/risqimirza/SiaranTV/main/favicon.png",
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjCy6rzJ/TVRI.png" group-title="CHANNEL | TRANSVISION",TVRI
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
