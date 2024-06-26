@@ -3998,6 +3998,9 @@ https://testfunctionlive.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://testfunctionlive.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="GTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png",GTV
+https://gtv-linier.rctiplus.id/hdntl=exp=1719454180~acl=%2F*~data=hdntl~hmac=055dc300f62059d02cce1519c93ea021c107af925d59ed7d3e6059176753fd28/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8
+
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="iNews.id" tvg-logo="https://iptv.urfan.web.id/logo/inews.png",iNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
