@@ -4047,7 +4047,8 @@ https://flv.intechmedia.net/live/ch108.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="tvOne.id" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",tvOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_783_480p/hdntl=exp=1719701022~acl=%2f*~id=allUsers~data=hdntl~hmac=ea6afd7400c10f972878757ac383050641048674a30d9ed73775a5f093f5254f/index.m3u8
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="vtv.id" tvg-logo="https://iptv.urfan.web.id/logo/vtv.png",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
