@@ -4103,8 +4103,9 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #################################
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="KompasTV.id" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png",Kompas TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ythls.urfan.web.id/stream/DOOrIxw5xOw/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/s/s104/02.m3u8
 
 
 ##############################
