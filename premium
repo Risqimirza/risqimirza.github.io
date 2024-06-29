@@ -3989,8 +3989,8 @@ https://testfunctionlive.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="MNCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://testfunctionlive.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://mnctv-linier.rctiplus.id/hdntl=exp=1719719759~acl=%2F*~data=hdntl~hmac=76166d4f85e001cf414eb44a15e61d41200c9cdbf85b3f215a3497529ee4a2b4/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="GTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
