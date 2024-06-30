@@ -4001,8 +4001,8 @@ https://gtv-linier.rctiplus.id/hdntl=exp=1719743723~acl=%2F*~data=hdntl~hmac=857
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="iNews.id" tvg-logo="https://iptv.urfan.web.id/logo/inews.png",iNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://vodkk24.rctiplus.id/hls/2024-04/kk_tutupan_sport_130424.m3u8
+#EXTVLCOPT:http-referrer=https:https://embed.rctiplus.com/
+https://icdn.rctiplus.id/inews-sdi-avc1_210000=20-mp4a_96000=1.m3u8
 
 
 #############################
