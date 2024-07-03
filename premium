@@ -3984,25 +3984,22 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="RCTI.id" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rcti-linier.rctiplus.id/hdntl=exp=1719845445~acl=%2F*~data=hdntl~hmac=f855cbeb7afb1c2e7ad7507d2d0d203b38613287256acc42f6d8a8fa856e9382/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8
+#EXTVLCOPT:http-referrer=https://embed.rctiplus.com/
+https://rcdn.rctiplus.id/rcti-sdi-avc1_450000=8-mp4a_96000=1.m3u8?auth_key=1719998941-7c164ff27287824eeb2b1ed0f8d88ad1-K4YNjEculmeFN9kwtzbhEWtDKAvWNZPC9UBHi9DB-e9697325a24c55df2914f6af8ee52513
 
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="MNCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://mnctv-linier.rctiplus.id/hdntl=exp=1719846771~acl=%2F*~data=hdntl~hmac=84b0a3003d0e603cb8e7548e14b3b499a4d17cf3fd89fe5de091dbb1456146c7/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#EXTVLCOPT:http-referrer=https://embed.rctiplus.com/
+https://mcdn.rctiplus.id/mnctv-sdi-avc1_450000=9-mp4a_96000=1.m3u8?auth_key=1719999089-e3b23e45b6eabe7ba99a9de4aa1455e7-SnI2IVBMXpiXJ1l8RoPEvvAHPh7YZ6twD1W7moUO-d70b3aec7d17b3af80f49a5f07b8aaea
 
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="GTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://gtv-linier.rctiplus.id/hdntl=exp=1719846266~acl=%2F*~data=hdntl~hmac=6d151dba2806e88d98f9dc9eaacb2f5d258feac8e78e41d343b0a569fd0d9e3c/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8
+#EXTVLCOPT:http-referrer=https://embed.rctiplus.com/
+https://gcdn.rctiplus.id/gtv-sdi-avc1_450000=8-mp4a_96000=1.m3u8?auth_key=1719999197-672d143d61a4a63e21fbd3bea5bbd39a-faD2qpzUWvUTkL1wMDPFOQA6S7HVnjIkPqhJ67ce-b580956b4ec2997d829d625db26ea656
 
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="iNews.id" tvg-logo="https://iptv.urfan.web.id/logo/inews.png",iNews
@@ -4010,6 +4007,7 @@ https://gtv-linier.rctiplus.id/hdntl=exp=1719846266~acl=%2F*~data=hdntl~hmac=6d1
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-referrer=https://embed.rctiplus.com/
 https://icdn.rctiplus.id/inews-sdi-avc1_450000=11-mp4a_96000=1.m3u8?auth_key=1719998198-03da42bbbbc2699e2a6d241075848ad0-EHhR5vJXHAsdMB7rZqhYbng6aVX6YIeZVyObL2yJ-f95d74e0c75eaf2f66997fef7319447d
+
 
 
 #############################
